@@ -1,0 +1,27 @@
+.altdark{
+    background:#272727;
+}
+
+.custom-border{
+    border:solid;
+    border-width: 1px;
+    border-color: #272727;
+}
+
+.btn{
+    background:#272727;
+    color: white;
+}
+
+.bg-altlight{
+    background: #737373;
+}
+
+.prices{
+    font-weight: bold;
+    color: #272727;
+}
+
+.stars i{
+    color: orange;
+}

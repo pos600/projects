@@ -1,3 +1,4 @@
 # projects
-here lies my projects for the portfolio
-currently have 6 slots to fill, but 3 should suffice for now.
+
+TODO: Adding more projects, replace old ones.
+NOTE: Taskmaster apk not working because of expired free firebase usage. Set up db to make it work again.

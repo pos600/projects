@@ -1,3 +1,3 @@
-Google Search mock-up
+Google Search layout mock-up
 
 HTML CSS
